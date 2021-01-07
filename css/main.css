@@ -21,10 +21,11 @@ a:hover {
     text-decoration: underline;
 }
 .headwrap{
+    display: block;
     border-bottom: 1px solid #d5d5d5;
 }
 .pagetitle{
-    font-size: 3em;
+    font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h1 {
