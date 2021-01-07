@@ -32,20 +32,15 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
 }
-#ftitle ul{
+footer ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: bold; 
 }
+
 #contact {
   float:left;
-}
-#contact ul{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
 }
 #contact ul li {
   margin-right: 20px;
@@ -53,12 +48,7 @@ footer {
 }
 #links {
   float:left;
-}
-#links ul{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+  margin-left: 20px;
 }
 #links ul li {
   margin-right: 20px;
