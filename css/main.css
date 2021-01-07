@@ -20,6 +20,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.container{
+    border-top: 1px solid #d5d5d5;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
