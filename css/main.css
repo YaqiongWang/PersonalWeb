@@ -52,7 +52,7 @@ footer {
   vertical-align: middle;
 }
 #links {
-  float:right;
+  float:left;
 }
 #links ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
