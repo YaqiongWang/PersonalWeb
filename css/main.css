@@ -20,8 +20,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
-.container{
-    border-top: 1px solid #d5d5d5;
+.headwrap{
+    border-bottom: 1px solid #d5d5d5;
+}
+.pagetitle{
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h1 {
     font-size: 3em;
