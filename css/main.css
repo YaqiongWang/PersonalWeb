@@ -21,7 +21,7 @@ a:hover {
     text-decoration: underline;
 }
 .headwrap{
-    display: block;
+    display:inline-block;
     border-bottom: 1px solid #d5d5d5;
 }
 .pagetitle{
