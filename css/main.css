@@ -8,7 +8,6 @@ nav ul{
     list-style: none;
     font-weight: bold;
     float: right;
-    border-bottom: 1px solid #d5d5d5;
 }
 nav ul li{
     display: inline;
@@ -39,12 +38,10 @@ footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    display:table-row;
+    list-style-position: outside;
 }
 footer ul li {
-    display: table-cell;
     margin-right: 20px;
-    vertical-align: middle;
 }
 
 ul.posts { 
