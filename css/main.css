@@ -2,27 +2,23 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-#navtitle {
-    float: left;
+.nav {
+    border-bottom: 1px solid #d5d5d5;
 }
-#navtitle ul{
+nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: bold; 
+}
+#navtitle {
+    float: left;
 }
 #navtitle ul li{
     display: inline;
     margin-right: 20px;
 }
 #navmenu {
-    float: right;
-}
-#navmenu ul{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
     float: right;
 }
 #navmenu ul li{
