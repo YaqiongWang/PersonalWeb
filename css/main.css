@@ -1,9 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
-}
-.nav{
-    display:inline;
+    width: 60%;
 }
 nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -11,13 +8,19 @@ nav ul{
     list-style: none;
     font-weight: bold; 
 }
-#navtitle ul li{
-    float: left;
-    margin-right: 20px;
+#navtitle {
+  float:left;
+  margin-right: 30px;
 }
-#navmenu ul li{
-    float: right;
-    margin-right: 0px;
+#navtitle ul li {
+  margin-right: 20px;
+}
+#navmenu {
+  float:right;
+  margin-left: 30px;
+}
+#navmenu ul li {
+  margin-right: 20px;
 }
 .pagetitle{
     font-size: 1.5em;
