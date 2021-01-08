@@ -2,14 +2,30 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul{
+#navleft {
+    float: left;
+}
+#navleft ul{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+#navleft ul li{
+    display: inline;
+    margin-right: 20px;
+}
+#navmenu {
+    float: right;
+}
+#navmenu ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
     float: right;
 }
-nav ul li{
+#navmenu ul li{
     display: inline;
     margin-right: 20px;
 }
