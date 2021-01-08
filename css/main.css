@@ -2,9 +2,6 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-#headwrap {
-border-bottom: 1px solid #d5d5d5;
-}
 #headwrap ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
