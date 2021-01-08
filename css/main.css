@@ -61,7 +61,7 @@ footer ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold; 
+    color: #999;
 }
 #contact {
   float:left;
@@ -71,6 +71,22 @@ footer ul{
   margin-right: 20px;
   vertical-align: middle;
 }
+#contact a:link {
+  color: #660000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#contact a:visited {
+  color: #990000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  background-color: transparent;
+  text-decoration: underline;
+}
 #links {
   float:left;
   margin-left: 30px;
@@ -78,6 +94,22 @@ footer ul{
 #links ul li {
   margin-right: 20px;
   vertical-align: middle;
+}
+#links a:link {
+  color: #660000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#links a:visited {
+  color: #990000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#links a:hover {
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 ul.posts { 
