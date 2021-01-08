@@ -31,13 +31,13 @@ a:hover {
     text-decoration: underline;
 } 
 #content a:link {
-  color: #990000;
+  color: #660000;
   background-color: transparent;
   text-decoration: none;
 }
 
 #content a:visited {
-  color: #ffb3b3;
+  color: #990000;
   background-color: transparent;
   text-decoration: none;
 }
