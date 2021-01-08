@@ -55,7 +55,10 @@ footer ul{
     list-style: none;
     font-weight: bold; 
 }
-
+#ftitle {
+  float:left;
+  margin-right: 30px;
+}
 #contact {
   float:left;
   margin-right: 30px;
