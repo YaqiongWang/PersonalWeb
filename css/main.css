@@ -18,6 +18,7 @@ body {
 }
 #navmenu ul li {
   margin-right: 20px;
+  display: inline;
 }
 .pagetitle{
     font-size: 1.5em;
@@ -33,6 +34,7 @@ a:hover {
 }
 .bio {
 border-top: 1px solid #d5d5d5;
+float: left;
 }
 h1 {
     font-size: 3em;
