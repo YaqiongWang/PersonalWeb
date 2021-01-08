@@ -31,13 +31,13 @@ a:hover {
     text-decoration: underline;
 } 
 #content a:link {
-  color: #660000;
+  color: #991f00;
   background-color: transparent;
   text-decoration: none;
 }
 
 #content a:visited {
-  color: #990000;
+  color: #b36b00;
   background-color: transparent;
   text-decoration: none;
 }
@@ -72,13 +72,13 @@ footer ul{
   vertical-align: middle;
 }
 #contact a:link {
-  color: #660000;
+  color: #991f00;
   background-color: transparent;
   text-decoration: none;
 }
 
 #contact a:visited {
-  color: #990000;
+  color: #b36b00;
   background-color: transparent;
   text-decoration: none;
 }
@@ -96,13 +96,13 @@ footer ul{
   vertical-align: middle;
 }
 #links a:link {
-  color: #660000;
+  color: #991f00;
   background-color: transparent;
   text-decoration: none;
 }
 
 #links a:visited {
-  color: #990000;
+  color: #b36b00;
   background-color: transparent;
   text-decoration: none;
 }
