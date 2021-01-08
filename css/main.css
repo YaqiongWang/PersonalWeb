@@ -28,8 +28,7 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: none;
-    color: blue;
+    text-decoration: underline;
 }
 h1 {
     font-size: 1.5em;
