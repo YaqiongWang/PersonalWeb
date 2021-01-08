@@ -2,7 +2,8 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-.nav {
+.nav{
+    display:inline;
     border-bottom: 1px solid #d5d5d5;
 }
 nav ul{
@@ -25,21 +26,17 @@ nav ul{
     display: inline;
     margin-right: 20px;
 }
+.pagetitle{
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    float: left;
+}
 a {
     text-decoration: none;
     color: #999;
 }
 a:hover {
     text-decoration: underline;
-}
-.nav{
-    display:inline;
-    border-bottom: 1px solid #d5d5d5;
-}
-.pagetitle{
-    font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    float: left;
 }
 h1 {
     font-size: 3em;
