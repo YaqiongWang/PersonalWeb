@@ -16,7 +16,7 @@ body {
   float:left;
   margin-left: 30px;
 }
-#navmenu ul li {
+ul#navmenu li {
   margin-right: 20px;
   display: inline;
 }
@@ -34,7 +34,6 @@ a:hover {
 }
 .bio {
 border-top: 1px solid #d5d5d5;
-float: left;
 }
 h1 {
     font-size: 3em;
@@ -54,10 +53,6 @@ footer ul{
     padding: 0px;
     list-style: none;
     font-weight: bold; 
-}
-#ftitle {
-  float:left;
-  margin-right: 30px;
 }
 #contact {
   float:left;
