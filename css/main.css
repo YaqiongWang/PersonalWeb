@@ -1,6 +1,9 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 70%;
+}
+#headwrap {
+border-bottom: 1px solid #d5d5d5;
 }
 #headwrap ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -31,10 +34,6 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-.bio {
-border-top: 1px solid #d5d5d5;
-float: left;
 }
 h1 {
     font-size: 3em;
