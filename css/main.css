@@ -11,13 +11,13 @@ nav ul{
     list-style: none;
     font-weight: bold; 
 }
-#navtitle ul li{
+#navtitle{
     float: left;
     margin-right: 20px;
 }
-#navmenu ul li{
+#navmenu{
     float: right;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 .pagetitle{
     font-size: 1.5em;
