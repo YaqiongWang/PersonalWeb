@@ -4,7 +4,6 @@ body {
 }
 .nav{
     display:inline;
-    border-bottom: 1px solid #d5d5d5;
 }
 nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -12,18 +11,12 @@ nav ul{
     list-style: none;
     font-weight: bold; 
 }
-#navtitle {
-    float: left;
-}
 #navtitle ul li{
-    display: inline;
+    float: left;
     margin-right: 20px;
 }
-#navmenu {
-    float: right;
-}
 #navmenu ul li{
-    display: inline;
+    float: right;
     margin-right: 20px;
 }
 .pagetitle{
@@ -37,6 +30,9 @@ a {
 }
 a:hover {
     text-decoration: underline;
+}
+.bio {
+border-top: 1px solid #d5d5d5;
 }
 h1 {
     font-size: 3em;
