@@ -34,6 +34,7 @@ a:hover {
 }
 .bio {
 border-top: 1px solid #d5d5d5;
+float: left;
 }
 h1 {
     font-size: 3em;
