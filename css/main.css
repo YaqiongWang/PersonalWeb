@@ -29,6 +29,7 @@ a {
 }
 a:hover {
     text-decoration: none;
+    color: blue;
 }
 h1 {
     font-size: 1.5em;
