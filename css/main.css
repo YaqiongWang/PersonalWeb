@@ -29,7 +29,24 @@ a {
 }
 a:hover {
     text-decoration: underline;
+} 
+#content a:link {
+  color: #990000;
+  background-color: transparent;
+  text-decoration: none;
 }
+
+#content a:visited {
+  color: #ffb3b3;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#content a:hover {
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 h1 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
