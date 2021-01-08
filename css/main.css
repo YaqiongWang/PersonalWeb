@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 60%;
 }
-nav ul{
+#headwrap ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -10,13 +10,10 @@ nav ul{
 }
 #navtitle {
   float:left;
-  margin-right: 30px;
-}
-#navtitle ul li {
-  margin-right: 20px;
+  margin-left: 30px;
 }
 #navmenu {
-  float:right;
+  float:left;
   margin-left: 30px;
 }
 #navmenu ul li {
